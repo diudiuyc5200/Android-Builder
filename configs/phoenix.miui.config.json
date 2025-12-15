@@ -2,10 +2,10 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/nzlnice/kernel_lenovo_J607Z.git",
-      "branch": "twelve",
-      "device": "arnoz",
-      "defconfig": "vendor/arnoz_row_lte-perf_defconfig"
+      "repo": "https://github.com/diudiuyc5200/6.git",
+      "branch": "test",
+      "device": "crux",
+      "defconfig": "crux_defconfig"
     },
     "enableCcache": true,
     "KSU": {
