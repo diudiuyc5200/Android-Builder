@@ -10,7 +10,7 @@
     "enableCcache": true,
     "KSU": {
       "enable": false,
-      "ExtPatch": falset
+      "ExtPatch": false
       "Variant": "ycrksu"
     },
     "enableLXC": false,
