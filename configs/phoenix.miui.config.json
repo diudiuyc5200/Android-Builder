@@ -3,14 +3,14 @@
     "kernelSource": {
       "name": "MIUI",
       "repo": "https://github.com/diudiuyc5200/1214gengxin.git",
-      "branch": "marisa",
+      "branch": "Xturbo",
       "device": "crux",
       "defconfig": "crux_defconfig"
     },
     "enableCcache": true,
     "KSU": {
-      "enable": false,
-      "ExtPatch": false,
+      "enable": true,
+      "ExtPatch": true,
       "Variant": "ycrksu"
     },
     "enableLXC": false,
