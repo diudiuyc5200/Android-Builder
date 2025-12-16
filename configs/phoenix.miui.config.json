@@ -2,7 +2,7 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/diudiuyc5200/1214gengxin.git",
+      "repo": "https://github.com/diudiuyc5200/ceshi1215.git",
       "branch": "Xturbo",
       "device": "crux",
       "defconfig": "crux_defconfig"
