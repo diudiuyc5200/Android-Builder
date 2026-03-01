@@ -2,15 +2,15 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/diudiuyc5200/ceshi1215.git",
-      "branch": "Xturbo",
+      "repo": "https://github.com/diudiuyc5200/0214.git",
+      "branch": "test-4",
       "device": "crux",
       "defconfig": "crux_defconfig"
     },
     "enableCcache": true,
     "KSU": {
-      "enable": true,
-      "ExtPatch": true,
+      "enable": false,
+      "ExtPatch": false,
       "Variant": "ycrksu"
     },
     "enableLXC": false,
