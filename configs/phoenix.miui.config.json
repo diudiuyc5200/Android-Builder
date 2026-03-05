@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "MIUI",
       "repo": "https://github.com/diudiuyc5200/0214.git",
-      "branch": "test-4",
+      "branch": "test-5",
       "device": "crux",
       "defconfig": "crux_defconfig"
     },
