@@ -2,8 +2,8 @@
   {
     "kernelSource": {
       "name": "MIUI",
-      "repo": "https://github.com/diudiuyc5200/xiaomi_kernel_crux.git",
-      "branch": "ksu9-1",
+      "repo": "https://github.com/diudiuyc5200/crux0308.git",
+      "branch": "ksu9",
       "device": "crux",
       "defconfig": "crux_defconfig"
     },
